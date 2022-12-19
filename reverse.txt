@@ -1,0 +1,4 @@
+# reverse a string.....
+
+x= "Edyoda"[ : :-1]
+print(x)a
